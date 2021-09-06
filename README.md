@@ -17,3 +17,6 @@ Git commands
 4)git remote add origin url-to-github-here
 //remove 
 rm -rf .git
+
+hola amiguitos
+
